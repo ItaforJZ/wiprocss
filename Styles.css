@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    color: white;
+    font-style: italic;
+    text-decoration: underline;
+    text-shadow: 2px 2px 8px #FF0000;
+}
+body {
+    background-color: purple;
+}
+#a {
+    color: white;
+    font-weight: lighter;
+    font-style: italic;
+}
+#box {
+    padding-top: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(128, 128, 128);
+    width: 400px;
+    height:420px;
+    font-size: 14px;
+    font-weight: bold;
+    background-color:gray;
+    box-shadow: 10px 20px 20px 10px burlywood;
+}
+.button {
+    font-style: italic;
+    font-weight: lighter;
+    border-color: azure;
+}
